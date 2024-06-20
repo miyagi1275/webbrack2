@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+.image01{
+	height:200px;
+		 	border: none;
+  		outline: none;
+ 		background: transparent;
+ 		box-shadow: none;
+}
+
+#hyouzi1,#hyouzi2,#syouhai{
+	
+	font-size:18px;
+	font-family:Meiryo UI;
+	
+	
+}
+#button01,#button02{
+		height:20px;
+	 	border: none;
+  		outline: none;
+  		background-color: rgb(255, 255, 255);
+ 		color: rgb(0, 0, 0);
+ 		}
+#button03,#button04{
+		height:20px;
+	 	border: none;
+  		outline: none;
+  		background-color: rgb(109, 109, 109);
+ 		color: rgb(0, 0, 0);
+
+ 		}
+ 		
+ 		
+ 		
+ 		
